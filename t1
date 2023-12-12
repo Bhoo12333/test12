@@ -10,5 +10,8 @@ sub();
  printf("sub of 2 nuo",a-b);
 }
 mul();
+mul();{
+    printf("mul of a and b ", a*b);
+}
 diV();
 }
