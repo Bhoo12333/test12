@@ -12,5 +12,6 @@ sub();
 mul(){
     printf("mul of a and b ", a*b);
 }
-divv();
+divv(){
+   printf("mdiv of a and b ", a/b);
 }
