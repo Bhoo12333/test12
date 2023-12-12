@@ -13,4 +13,5 @@ mul(){
     printf("mul of a and b ", a*b);
 }
 divv();
+mull();
 }
