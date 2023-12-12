@@ -2,6 +2,9 @@
 main()
 {
 add();
+{
+   printf("addition of a and b ", a+b);
+}
 sub();
 mul();
 diV();
