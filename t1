@@ -6,6 +6,8 @@ add();
    printf("addition of a and b ", a+b);
 }
 sub();
-mul();
+mul();{
+    printf("mul of a and b ", a*b);
+}
 diV();
 }
