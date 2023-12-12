@@ -6,6 +6,9 @@ add();
    printf("addition of a and b ", a+b);
 }
 sub();
+{ 
+ printf("sub of 2 nuo",a-b);
+}
 mul();
 diV();
 }
